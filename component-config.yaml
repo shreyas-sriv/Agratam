@@ -1,0 +1,7 @@
+version: '1.0'
+components:
+  - name: agratam
+    type: service
+    properties:
+      url: http://agratam.choreo.dev
+      port: 5001
