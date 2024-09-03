@@ -3,5 +3,5 @@ components:
   - name: agratam
     type: service
     properties:
-      url: http://agratam.choreo.dev
+      url: http://agratam.choreo.dev/api/upload
       port: 5001
